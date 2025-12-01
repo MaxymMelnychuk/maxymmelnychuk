@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MaxymMelnychuk&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxymMelnychuk&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxymMelnychuk&layout=compact&theme=radical)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
