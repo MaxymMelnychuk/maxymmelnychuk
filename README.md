@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning NodeJS, Tailwind CSS, and React
+🌱 I'm currently learning NodeJS, VueJS, and React
 
 
 ## 🌐 Socials:
